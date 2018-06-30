@@ -1,0 +1,47 @@
+*{
+    overflow: hidden;
+}
+
+.big-wrapper{
+    width: 50%;
+    margin: 100px auto;
+    padding: 20px;
+    font-family: "Open Sans", Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight:400;
+    overflow: hidden;
+    color: #2e3d49;
+    background: #f1f1f1;    
+    box-shadow: 0 16px 43px 0 rgba(0, 0, 0, 0.2), 0 14px 35px 0 rgba(0, 0, 0, 0.19);
+    height: 450px;
+    border-radius: 7px;
+}
+
+label{
+    font-family: "Open Sans", Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight:400;
+}
+
+input[type=button]{
+    text-transform: capitalize;
+}
+.form-control{
+    margin: 12px 0px;
+}
+.btn{
+    line-height: 1.5;
+    letter-spacing: 2px;
+}
+
+body{
+    background: rgba(242, 242, 242, 0.72);
+}
+
+.display-3 {
+    font-size: 4.5rem;
+    font-weight: 600;
+    line-height: 1.2;
+    margin-bottom: -50px;
+    color: #24282b;
+}
